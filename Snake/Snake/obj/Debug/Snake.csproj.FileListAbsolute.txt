@@ -3,3 +3,4 @@ E:\OneDrive\Documents\GitHub\Snake\Snake\Snake\bin\Debug\Snake.exe
 E:\OneDrive\Documents\GitHub\Snake\Snake\Snake\bin\Debug\Snake.pdb
 E:\OneDrive\Documents\GitHub\Snake\Snake\Snake\obj\Debug\Snake.exe
 E:\OneDrive\Documents\GitHub\Snake\Snake\Snake\obj\Debug\Snake.pdb
+E:\OneDrive\Documents\GitHub\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
