@@ -26,8 +26,6 @@ namespace Snake
             // отрисовка точек
             Point p = new Point(4, 5, '*');
             p.Draw();
-
-            Console.ReadLine();
         }
     }
 }
